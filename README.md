@@ -1,4 +1,3 @@
-# Multiple Linear Regression Project
 # Student Performance Prediction using Multiple Linear Regression
 ## Multiple Linear Regression
 Multiple linear regression refers to a statistical technique that uses two or more independent variables to predict the outcome of a dependent variable. 
